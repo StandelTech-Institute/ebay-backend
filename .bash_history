@@ -13,3 +13,8 @@ ls -l
 sudo su
 tree git
 git --version
+clear
+git --version
+hostname
+sudo su
+sudo su -

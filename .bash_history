@@ -18,3 +18,4 @@ git --version
 hostname
 sudo su
 sudo su -
+clear
